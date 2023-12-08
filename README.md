@@ -66,7 +66,7 @@ Auto Magic is a passion project—a digital grimoire born out of the recognition
 ## 🚀 Development Journey
 Embark on the magical journey of Auto Magic, created through continuous learning, dedication, and countless hours of coding. The team's quest was to craft a user-friendly solution, turning data analysis into a magical adventure. The project is an ongoing magical expedition, with a commitment to supporting wizards and sorceresses on their data exploration.
 
-## 🌐 ## Deployed Link
+## 🌐  Deployed Link
 [Auto Machine Learning App](https://automachinelearning.streamlit.app/)
 
 ## 📬 Contact Information
